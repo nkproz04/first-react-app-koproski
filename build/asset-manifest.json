@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-react-app-koproski/static/css/main.4166227b.css",
+    "main.js": "/first-react-app-koproski/static/js/main.c807f747.js",
+    "index.html": "/first-react-app-koproski/index.html",
+    "main.4166227b.css.map": "/first-react-app-koproski/static/css/main.4166227b.css.map",
+    "main.c807f747.js.map": "/first-react-app-koproski/static/js/main.c807f747.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4166227b.css",
+    "static/js/main.c807f747.js"
+  ]
+}
